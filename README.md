@@ -3,7 +3,7 @@
 Welcome to my profile below you'll find information about me:
 
 - 🌱 I’m currently learning DevOps.
-- :computer: I love learning new topic and pay practicing.
+- :computer: I love learning new topic and practicing.
 - :swimmer: I like to do exercise. 
 - :open_book: I love studying. 
 - 💬 Ask me about anything
