@@ -7,7 +7,7 @@ Welcome to my profile below you'll find information about me:
 - :swimmer: I like to do exercise. 
 - :open_book: I love studying. 
 - 💬 Ask me about anything
-
+- 📚  <a href="https://platzi.com/p/jhon-mijangos/" target="_blank">My courses in Platzi</a>  
 
 <h1> Skills </h1>
 
