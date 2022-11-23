@@ -1,4 +1,4 @@
-Hi there 👋
+<h1> Hi there 👋 </h1>
 
 Welcome to my profile below you'll find information about me:
 
